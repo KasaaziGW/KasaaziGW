@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KasaaziGW
+- 👋 Hi, I am George William Kasaazi from Uganda.
 - 👀 I’m interested in Programming, Human Computer Interaction, Database Systems and Teaching.
 - 🌱 I’m currently learning Python - Django and React.
 - 💞️ I’m looking to collaborate on anything that can help me improve my programming skills.

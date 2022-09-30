@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KasaaziGW
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Python Django and React.
+- 👀 I’m interested in Programming, Human Computer Interaction, Database Systems and Teaching.
+- 🌱 I’m currently learning Python - Django and React.
 - 💞️ I’m looking to collaborate on anything that can help me improve my programming skills.
 - 📫 How to reach me kasaazi.gw@gmail.com
 
